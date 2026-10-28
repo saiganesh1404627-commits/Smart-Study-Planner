@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "name": "java",
+        "type": "Assignment",
+        "deadline": "2026-10-28",
+        "importance": "Low",
+        "estimated_time": 100.0,
+        "completed": true
+    }
+]
